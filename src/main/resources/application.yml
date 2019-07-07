@@ -3,3 +3,10 @@ myapp:
     username: jmsuser
     password: jmspassword
     dburl: jmsdburl
+
+---
+spring:
+  profiles: de
+myapp:
+  jms:
+    username: jmsuser $$$$ GERMAN
