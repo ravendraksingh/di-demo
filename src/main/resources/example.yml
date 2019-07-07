@@ -1,0 +1,21 @@
+# this is a comment
+name: Ravendra
+
+names: #comment
+  - Ravendra
+  - Sarita
+  - Rudra
+
+book:
+  author: John Thompson
+  publisher: Wrox
+
+truth: yes
+
+another_true:
+
+include_multi_line: |
+  line 1
+  line 2
+  line 3
+

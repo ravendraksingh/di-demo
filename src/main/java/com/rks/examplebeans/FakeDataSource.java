@@ -1,16 +1,16 @@
 package com.rks.examplebeans;
 
 public class FakeDataSource {
-    private String user;
+    private String userName;
     private String password;
     private String dburl;
 
-    public String getUser() {
-        return user;
+    public String getUserName() {
+        return userName;
     }
 
-    public void setUser(String user) {
-        this.user = user;
+    public void setUserName(String userName) {
+        this.userName = userName;
     }
 
     public String getPassword() {

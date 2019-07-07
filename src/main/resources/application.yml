@@ -1,0 +1,5 @@
+myapp:
+  jms:
+    username: jmsuser
+    password: jmspassword
+    dburl: jmsdburl
